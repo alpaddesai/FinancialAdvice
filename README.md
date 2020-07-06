@@ -10,7 +10,7 @@ Images are custom.
 
 
 ## Personal Finances
-![image]()
+![image](PersonalFinances.png)
 
 ## Corporate Finances
 ![image](CorporateBudgeting.png)
