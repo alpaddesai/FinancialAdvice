@@ -9,7 +9,7 @@ Please download the executable in https://github.com/alpaddesai/FinancialAdvice/
 Images are custom.
 
 
-## Personal Financies
+## Personal Finances
 ![image]()
 
 ## Corporate Finances
