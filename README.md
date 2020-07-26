@@ -1,6 +1,6 @@
 # Financial Advisor
 
-The project provides an introduction to financial advice, schedule C. 
+The project provides an introduction to financial advice (Self employed:schedule C) 
 
 Confidential information is not displayed.
 
