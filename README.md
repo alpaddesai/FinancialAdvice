@@ -16,4 +16,4 @@ Images are custom.
 ![image](CorporateBudgeting.png)
 
 
-Advanced interest please click on https://github.com/alpaddesai/Sales
+Advanced interest please click on https://github.com/alpaddesai/OptimalCapitalStructure and  https://github.com/alpaddesai/Sales
