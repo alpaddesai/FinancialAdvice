@@ -17,3 +17,5 @@ Images are custom.
 
 
 Advanced interest please click on https://github.com/alpaddesai/OptimalCapitalStructure and  https://github.com/alpaddesai/Sales
+
+![image](USCopyrightCertificate.png)
