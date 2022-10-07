@@ -15,7 +15,7 @@ Images are custom.
 ## Corporate Finances
 ![image](CorporateBudgeting.png)
 
+![image](USCopyrightCertificate.png)
 
 Advanced interest please click on https://github.com/alpaddesai/OptimalCapitalStructure and  https://github.com/alpaddesai/Sales
 
-![image](USCopyrightCertificate.png)
