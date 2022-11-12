@@ -17,5 +17,7 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced interest please click on https://github.com/alpaddesai/OptimalCapitalStructure and  https://github.com/alpaddesai/Sales
 
