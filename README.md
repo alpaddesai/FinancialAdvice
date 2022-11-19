@@ -15,6 +15,9 @@ Images are custom.
 ## Corporate Finances
 ![image](CorporateBudgeting.png)
 
+## CFA exam
+![image](CFAExam.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
