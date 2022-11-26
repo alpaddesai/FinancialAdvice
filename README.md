@@ -8,7 +8,6 @@ Please download the executable in https://github.com/alpaddesai/FinancialAdvice/
 
 Images are custom.
 
-
 ## Personal Finances
 ![image](PersonalFinances.png)
 
@@ -17,6 +16,9 @@ Images are custom.
 
 ## CFA exam
 ![image](CFAExam.jpg)
+
+## GMAT exam
+![image]
 
 ![image](USCopyrightCertificate.png)
 
