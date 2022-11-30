@@ -14,12 +14,6 @@ Images are custom.
 ## Corporate Finances
 ![image](CorporateBudgeting.png)
 
-## CFA exam
-![image](CFAExam.jpg)
-
-## GMAT exam
-![image](GMAT_TestScore_.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
