@@ -16,4 +16,4 @@ Images are custom.
 
 ![image](Ethics.jpg)
 
-Advanced interest please click on https://github.com/alpaddesai/OptimalCapitalStructure and  https://github.com/alpaddesai/Sales
+Advanced interest please click on https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
